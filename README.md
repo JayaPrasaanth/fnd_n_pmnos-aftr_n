@@ -1,6 +1,6 @@
 #include <stdio.h>
 int isprime(int);
-main() {
+int main() {
     int n1,n2,i,c=0;
 	scanf("%d %d", &n1, &n2);
 	for(i=n1+1;;i++)
